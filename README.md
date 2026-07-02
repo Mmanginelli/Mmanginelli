@@ -1,6 +1,7 @@
 ## OI I'M MMANGINELLI!
 
 Aspiring Back-End Developer.
+
 Currently studying at ETEC.
 
 My Stack :P ...
