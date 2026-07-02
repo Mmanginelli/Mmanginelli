@@ -1,4 +1,19 @@
-## Hi there 👋
+## OI I'M MMANGINELLI!
+
+Aspiring Back-End Developer.
+Currently studying at ETEC.
+
+My Stack :P ...
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP"/></code>
+
+Interested in ...
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" alt="Rust"/></code>
 
 <!--
 **Mmanginelli/Mmanginelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
