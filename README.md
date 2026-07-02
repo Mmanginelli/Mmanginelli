@@ -1,6 +1,6 @@
 ## OI I'M MMANGINELLI!
 
-Aspiring Back-End Developer.
+Aspiring Back-End Developer and Dreaming about studying DevOps.
 
 Currently studying at ETEC.
 
